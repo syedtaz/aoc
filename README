@@ -1,0 +1,40 @@
+Languages
+
+ML Family
+  - OCaml
+  - Haskell
+  - SML
+  - FSharp
+
+Dynamically Typed
+  - Python
+  - Ruby
+  - Racket
+  - TypeScript
+  - Lua
+  - Julia
+  - Gleam
+
+Statically Typed w/ GC
+  - Golang
+  - Java
+  - Swift
+
+Statically Typed wo/ GC
+  - Rust
+  - C
+  - C++
+  - Koka
+
+Logic
+  - Prolog
+  - Mercury
+  - Clojure / Kanren
+
+Dependently Typed
+  - Idris2
+  - Lean
+
+Whacky
+  - Smalltalk
+  - Forth
